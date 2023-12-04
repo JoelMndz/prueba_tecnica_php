@@ -1,4 +1,4 @@
-# PRUEBA TÉNICA PHP YII2
+# PRUEBA TÉCNICA PHP YII2
 Enlace de la prueba: https://docs.google.com/document/d/1DtHu3iz3qsN9B2P-qOY_1ZxcnI40Ft3k_mlL6XIrAtU/edit
 ### Entorno
 - php 7.2
